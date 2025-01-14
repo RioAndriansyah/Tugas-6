@@ -2,4 +2,4 @@
 tugas ke enam dari mata kuliah dasar pemrograman 
 
 detail :
-menjelaskan apa itu bootstarp 
+tugasnya adalah untuk membuat sebuah layout menggunakan kontainer kontainer yang telah disediakan
